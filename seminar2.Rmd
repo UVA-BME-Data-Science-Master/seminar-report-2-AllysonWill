@@ -1,0 +1,21 @@
+---
+title: "BME 4550 - Seminar Report 2"
+output: html_document
+---
+**Name:** Allyson Will  
+**Seminar Speaker's Name: **Ali D. Guler  
+**Seminar Speaker's Title:** Assistant Professor of Biology  
+**Seminar Speaker's Affiliation:** University of Virginia, Department of Biology  
+**Date:**11/7/2018  
+**Time:** 1:00 p.m.   
+**Seminar Title:**  Food, time and dopamine: How rewarding snacks hijack your brain  
+**Seminar Summary: **   
+ **Overarching Research Topic:** Professor Guler wanted to explore how consumption of rewarding or fatty foods affect food consumption.   
+  **Research Question:** He was interested in researching how eating fatty foods causes increased food consumption which ultimately results in higher fat content being stored in the body or obesity. His question was how does access to different types of food affect the type of eating we engage in: hedonic overeating vs homeostatic dysregulation?  
+### Methods   
+  **Experimental Design:**  Guler performed multiple experiments on mice. The first one he tested was how does restricting access to food affect their food consumption and how does introducing a "jet lag" scenario affect how they eat. The next one he tested was he gave one population of mice access to high fat food chow and another population access to an average fat food chow. From this he measured their body fat and he explored which dopamine  pathways regulate foraging for food during the inactive period. He found that icreased SCN-Drd1 signaling leads to hedonic overeating in mice.  
+  **Is the research relevant to your project?:** This research is not completely applicable to my project. He was mainly focused on the neuron activities within mice and how does his different experiments affect what neurons are being activated. My project focuses on genes and the RNA expression levels within it. The scientific method he used of proposing questions and using data to either support or reject his hypothesis is very applicable to our project.    
+  **Question 1 addressed towards speaker:**  How applicable do you think your experiments on mice is to human behvior with fatty foods?   
+  **Question 2 addresssed towards speaker: **   After seeing how mice reacted to restriction to food, would you reccomend humans restrict when they eat food throughout the day?  
+  **Take-home:** I thought the presenter could have done a better job focusing his presentation. It felt like he was trying to incorporate too much information in the beginning that did not seem that important to the main focus of his presentations which was his experiments on the mice with the different applied diets. If he could have kept his presentation more focused, I think his point would have come across better. However, I did find it interesting how he related his study on mice to humans and how as a society we are struggling with increasing prevalence of type 2 diabetes and obesity which could be more controlled by what we choose to eat.    
+**Closing Statement:**  Overall, I did find his presentation to be very interesting. It was interesting to see how increased consumption of fatty foods causes an increase in hedonic eating (which is eating for pleasure). As a society, we definitely need to be more aware of the types of foods we are eating to make sure they are healthy.    
